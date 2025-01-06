@@ -6,13 +6,19 @@ import js from "../images/js.png"
 import reac from "../images/react.png"
 import ph from "../images/php.png"
 import sql from "../images/sql.png"
+import linux from "../images/linux.png"
+import api from "../images/api.png"
+import oop from "../images/oop.jpg"
+import livewire from "../images/livewire.png"
 import "./skill.css";
 // the image of additional skills
 import alg from "../images/alg.png"
 import sol from "../images/slov.png"
 import data from "../images/data.png"
 import hup from "../images/githup.png"
+import pay from "../images/payment.png"
 import team from "../../animation/team_work.png";
+import laravel from "../images/laravel.png";
 // import Lottie from "lottie-react";
 // import team from "../../animation/team.json"
 
@@ -59,11 +65,16 @@ const Skills = () => {
             <img src={ph} alt="" />
             <small>php</small>
             </div>
+            <div className='php'>
+            <div className="af_php"></div>
+            <img src={laravel} alt="" />
+            <small>laravel</small>
+            </div>
 
             <div className='sql'>
             <div className="af_sql"></div>
             <img src={sql} alt="" />
-            <small>sql</small>
+            <small>mysql</small>
             </div>
     
         </div>
@@ -86,6 +97,26 @@ const Skills = () => {
                 <div>
                     <img src={alg} alt="" />
                     <p>algorithms</p>
+                </div>
+                <div>
+                    <img src={pay} alt="" />
+                    <p>payment</p>
+                </div>
+                <div>
+                    <img src={linux} alt="" />
+                    <p>linux</p>
+                </div>
+                <div>
+                    <img src={api} alt="" />
+                    <p>api</p>
+                </div>
+                <div>
+                    <img src={livewire} alt="" />
+                    <p>livewire</p>
+                </div>
+                <div>
+                    <img src={oop} alt="" />
+                    <p>oop</p>
                 </div>
                 <div>
                     {/* <Lottie className='ico_n' animationData={team}/> */}

@@ -5,16 +5,16 @@ import "./style.css";
 import Navs from "../componant/1-nav/nav";
 const Projects = () => {
   return (
-    <div>
-                <Navs/>
-        <div className='containe'>
-                <div className="right">
-                    <h3>some projects</h3>
-                    <p className='proj_p'>all my projects you will find in githup link</p>
-                </div>
-                <div className="left">
-                </div>
-        </div>
+    <div className='cont_nav'>
+          <Navs/>
+          <div className='containe'>
+              <div className="right">
+                  <h3>some projects</h3>
+                  <p className='proj_p'>all my projects you will find in githup link</p>
+              </div>
+              <div className="left">
+              </div>
+          </div>
         <hr/>
         <Main/>
         <Contact/>

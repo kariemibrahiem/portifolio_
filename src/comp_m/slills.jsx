@@ -4,7 +4,7 @@ import Contact from '../componant/4-contact/contact'
 import Navs from '../componant/1-nav/nav';
 const Slills = () => {
   return (
-    <div>
+    <div className='cont_nav'>
       <Navs/>
          <div className='containe'>
                 <div className="right">
