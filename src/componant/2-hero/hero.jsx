@@ -45,7 +45,7 @@ const Hero = () =>{
                     </a> */}
 
 <DownloadButton
-        filePath="./resume_10_3.pdf"
+        filePath="./resume_10.6.pdf.pdf.pdf"
         fileName="cv.pdf"
         buttonText="Download PDF"
       />
