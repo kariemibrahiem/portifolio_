@@ -12,7 +12,7 @@ import Cards from "../3-main/card";
 import Lottie from "react-lottie";
 // import Lottie from "react-lottie";
 import devo from "../../animation/developer.png";
-import cv from "./resume_10_3.pdf"
+import cv from "./resume_10.6.pdf.pdf.pdf"
 
 
 function DownloadButton({ filePath, fileName, buttonText }) {
