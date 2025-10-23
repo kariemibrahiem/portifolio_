@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portifolio_/static/css/main.bb0607f3.css",
-    "main.js": "/portifolio_/static/js/main.94d6498e.js",
+    "main.css": "/portifolio_/static/css/main.bb490e6a.css",
+    "main.js": "/portifolio_/static/js/main.74cef261.js",
     "static/media/team_work.png": "/portifolio_/static/media/team_work.0e51fe0b8ce36684cfce.png",
     "static/media/developer.png": "/portifolio_/static/media/developer.cc692f9721868efd3502.png",
     "static/media/demonetor.png": "/portifolio_/static/media/demonetor.1854963060a99cfaa245.png",
@@ -17,31 +17,40 @@
     "static/media/f2_cof.png": "/portifolio_/static/media/f2_cof.a65727f842aa2b6ed549.png",
     "static/media/moon.png": "/portifolio_/static/media/moon.6fa6988263e1e2240449.png",
     "static/media/sql.png": "/portifolio_/static/media/sql.167c88550478e6f0f85c.png",
+    "static/media/mawhebtac.png": "/portifolio_/static/media/mawhebtac.a62828bb2b32f98d3daf.png",
+    "static/media/travel.png": "/portifolio_/static/media/travel.9560c3e7e5b138dd3d13.png",
+    "static/media/linux.png": "/portifolio_/static/media/linux.df59bfdda79d939a1d73.png",
     "static/media/home (1).gif": "/portifolio_/static/media/home (1).e1baedc9e2643f9f7339.gif",
-    "static/media/resume_10_3.pdf": "/portifolio_/static/media/resume_10_3.4406a88b16fdfdc716e1.pdf",
+    "static/media/clinizone.png": "/portifolio_/static/media/clinizone.5bf0438cc8a96222e8f2.png",
+    "static/media/emlaazon.png": "/portifolio_/static/media/emlaazon.ad8aece256fbbd7dcaca.png",
+    "static/media/jquery.png": "/portifolio_/static/media/jquery.5218d846e86fbcafcc5d.png",
     "static/media/php.png": "/portifolio_/static/media/php.6818a489cf7a785c8681.png",
+    "static/media/Kariem_cv_13.2.pdf": "/portifolio_/static/media/Kariem_cv_13.2.250905ba022d1f1a8db2.pdf",
     "static/media/l2_htls.png": "/portifolio_/static/media/l2_htls.d2fca6a98348f297427f.png",
     "static/media/guess.png": "/portifolio_/static/media/guess.d2f833c61771833907ea.png",
+    "static/media/livewire.png": "/portifolio_/static/media/livewire.5f7239e3f8855842775d.png",
     "static/media/logo.png": "/portifolio_/static/media/logo.61ecfb3b83af5ba3ea04.png",
     "static/media/boots.png": "/portifolio_/static/media/boots.9cd429090069a189475b.png",
     "static/media/prof_3.jpg": "/portifolio_/static/media/prof_3.c7059b277db3e5a75789.jpg",
+    "static/media/laravel.png": "/portifolio_/static/media/laravel.12fc70dd41ecd44edab2.png",
     "static/media/crud.png": "/portifolio_/static/media/crud.5df8127ba0fe996e7a84.png",
     "static/media/l3_task.png": "/portifolio_/static/media/l3_task.8f1eab8311791ff5562d.png",
     "static/media/react.png": "/portifolio_/static/media/react.20adfb35ae6a6e5817bf.png",
     "static/media/alg.png": "/portifolio_/static/media/alg.5971cbd7624631be7284.png",
     "static/media/slov.png": "/portifolio_/static/media/slov.681e5c1bbea51890d94f.png",
     "static/media/data.png": "/portifolio_/static/media/data.882560851f5636a84bb8.png",
+    "static/media/api.png": "/portifolio_/static/media/api.334c60ee6f72d5f7f6ca.png",
     "static/media/githup.png": "/portifolio_/static/media/githup.4ca3b832efd81a65a429.png",
     "static/media/css.png": "/portifolio_/static/media/css.d1a3c1e59ca82dbdf815.png",
     "static/media/xo.png": "/portifolio_/static/media/xo.b99cd0b2e88f53960631.png",
     "static/media/html.png": "/portifolio_/static/media/html.6e930594286d8afe4c79.png",
     "static/media/js.png": "/portifolio_/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/portifolio_/index.html",
-    "main.bb0607f3.css.map": "/portifolio_/static/css/main.bb0607f3.css.map",
-    "main.94d6498e.js.map": "/portifolio_/static/js/main.94d6498e.js.map"
+    "main.bb490e6a.css.map": "/portifolio_/static/css/main.bb490e6a.css.map",
+    "main.74cef261.js.map": "/portifolio_/static/js/main.74cef261.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb0607f3.css",
-    "static/js/main.94d6498e.js"
+    "static/css/main.bb490e6a.css",
+    "static/js/main.74cef261.js"
   ]
 }
