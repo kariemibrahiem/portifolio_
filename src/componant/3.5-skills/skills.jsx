@@ -2,6 +2,7 @@ import React from 'react'
 import html from "../images/html.png"
 import css from "../images/css.png"
 import boots from "../images/boots.png"
+import jquery from "../images/jquery.png"
 import js from "../images/js.png"
 import reac from "../images/react.png"
 import ph from "../images/php.png"
@@ -46,7 +47,7 @@ const Skills = () => {
             </div>
             <div className='boot'>
             <div className="af_boot"></div>
-            <img src={boots} alt="" />
+            <img src={jquery} alt="" />
             <small>jquery</small>
             </div>
             <div className='js'>

@@ -36,7 +36,7 @@ const Navs = () =>{
 
     <Navbar expand="md" className=" cont2">
       <Container>
-        <Navbar.Brand  href=""><sup>7</sup>matrex<sub><small>company</small></sub></Navbar.Brand>
+        <Navbar.Brand  href=""><sup></sup>Kariem Ibrahiem<sub><small>Back-end</small></sub></Navbar.Brand>
         
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">

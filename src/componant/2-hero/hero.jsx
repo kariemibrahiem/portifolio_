@@ -12,7 +12,7 @@ import Cards from "../3-main/card";
 import Lottie from "react-lottie";
 // import Lottie from "react-lottie";
 import devo from "../../animation/developer.png";
-import cv from "./resume_10.6.pdf.pdf.pdf"
+import cv from "./Kariem_cv_13.2.pdf"
 
 
 function DownloadButton({ filePath, fileName, buttonText }) {
@@ -33,11 +33,14 @@ const Hero = () =>{
                     <h2>
                     kariem ibrahiem 
                     </h2>
-                    <small>web developer</small>
+                    <small>full-stack</small>
                     <p className="text">
-                        front-end developer and back-end solution provider , 
-                        have courses in ui/ux design for a modern and good designs 
-                        , and great expert in making a functional websites 
+                        front-end (React) and back-end (Laravel) developer , 
+                        with more than 1.5 years of experience in building web applications and
+                        websites . passionate about learning new technologies and
+                        improving my skills . looking forward to working on exciting projects
+                        and collaborating with talented teams.
+                        work in two companies full and part time as a full-stack(laravel , Blade) developer.
                     </p>
                     {/* <button className="cv_bt"><a  href="./resume_10_3.pdf" download className="cv"> take a look at cv</a></button> */}
                     {/* <a href="./resume_10_3.pdf" Download PDF download="resume_10_3.pdf" class="download-btn">
@@ -52,9 +55,9 @@ const Hero = () =>{
                     <br />
                     <br />
                     <div className="connection">
-                        <a href="https://github.com/kariemibrahiem"><img src={p1} className="icon"/></a>
-                        <a href="https://www.linkedin.com/in/kariem-ibrahiem-903a0b2a7/"> <img src={p2} className="icon"/></a>
-                        <a href="https://www.facebook.com/kemo.ibrahem.98/"> <img src={p3} className="icon"/></a>
+                        <a target="_blank" href="https://github.com/kariemibrahiem"><img src={p1} className="icon"/></a>
+                        <a target="_blank" href="https://www.linkedin.com/in/kariem-ibrahiem-903a0b2a7/"> <img src={p2} className="icon"/></a>
+                        <a target="_blank" href="https://www.facebook.com/kemo.ibrahem.98/"> <img src={p3} className="icon"/></a>
                     </div>
                 </div>
                 <div className="col-sm-12 col-md-6 logo_div">
